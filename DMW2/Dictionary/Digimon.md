@@ -1,4 +1,4 @@
-# [Back](home.md) - Digimon ID
+# Digimon ID - [Back](home.md)
 
 | Id       | Digimon      |
 |------------|---------------|
