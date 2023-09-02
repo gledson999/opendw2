@@ -11,7 +11,7 @@ Most of the information relayed in this document is the collective effort of a l
 - [x] [Item ID](./DMW2/Dictionary/Item.md)
 - [x] [Tech ID](./DMW2/Dictionary/Tech.md)
 - [x] [Flag ID](./DMW2/Dictionary/Flag.md)
-- [ ] [Screen List](./DMW2/Dictionary/Screen.md)
+- [ ] [Screen List](./DMW2/Dictionary/Screen.md)<img src="imagens/new.gif" width="30" height="14"/>
 
 ## Modding Releases
 * [Digimon World 2 - Improvement Hack](https://www.romhacking.net/hacks/2587/)
