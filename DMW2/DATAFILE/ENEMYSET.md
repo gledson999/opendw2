@@ -1,4 +1,4 @@
-# ENEMYSET.BIN - [Back](https://gledson999.github.io/opendw2/home.html)
+# ENEMYSET.BIN - [Back](../../../home.html)
 
 File containing the settings and AI of enemies.
 
