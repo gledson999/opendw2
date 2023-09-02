@@ -1,4 +1,4 @@
-# Tech ID - [Back](https://gledson999.github.io/opendw2/home.html)
+# Tech ID - [Back](../../home.md)
 
 | Id       | Tech      |
 |------------|---------------|
