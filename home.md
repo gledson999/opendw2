@@ -6,6 +6,12 @@ Most of the information relayed in this document is the collective effort of a l
 ## Files Types
 - [x] [ENEMYSET.BIN](./DMW2/DATAFILE/ENEMYSET.md)
 
+## Dictionary
+- [x] [Digimon ID](./DMW2/Dictionary/Digimon.md)
+- [x] [Item ID](./DMW2/Dictionary/Item.md)
+- [x] [Tech ID](./DMW2/Dictionary/Tech.md)
+- [x] [Flag ID](./DMW2/Dictionary/Flag.md)
+
 ## Other resources!
 
 * Luminaires [Google Sheet Pages](https://docs.google.com/spreadsheets/d/1UiDU4MsSfxO1vhpK6err1KsLRZM53JUOuYqYhfEFp8o/edit#gid=1090520331).
