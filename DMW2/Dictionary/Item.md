@@ -1,4 +1,4 @@
-# Item ID - [Back](https://gledson999.github.io/opendw2/home.html)
+# Item ID - [Back](/opendw2/home.html)
 
 | Id       | Item      |
 |------------|---------------|
