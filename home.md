@@ -12,6 +12,16 @@ Most of the information relayed in this document is the collective effort of a l
 - [x] [Tech ID](./DMW2/Dictionary/Tech.md)
 - [x] [Flag ID](./DMW2/Dictionary/Flag.md)
 
+## Modding Releases
+* [Digimon World 2 - Improvement Hack](https://www.romhacking.net/hacks/2587/)
+* [Digimon World 2 - Faithful Mode](https://www.romhacking.net/hacks/7540/)
+* [Digimon World 2 - Alternative](https://www.romhacking.net/hacks/7272/)
+* [Digimon World 2 - Hardmode](https://www.romhacking.net/hacks/5358/)
+
+## Tool Releases
+* [Digimon World 2 - Digivolution Visualizer](https://www.romhacking.net/utilities/1727/)
+* [Digimon World 2 - Tiny Tool](https://www.romhacking.net/utilities/1723)
+
 ## Other resources!
 
 * Luminaires [Google Sheet Pages](https://docs.google.com/spreadsheets/d/1UiDU4MsSfxO1vhpK6err1KsLRZM53JUOuYqYhfEFp8o/edit#gid=1090520331).
