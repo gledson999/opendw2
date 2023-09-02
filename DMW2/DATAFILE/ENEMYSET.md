@@ -1,4 +1,4 @@
-# ENEMYSET.BIN - [Back](../../../../home.html)
+# ENEMYSET.BIN - [Back](../../home.html)
 
 File containing the settings and AI of enemies.
 
