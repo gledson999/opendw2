@@ -6,7 +6,7 @@ Most of the information relayed in this document is the collective effort of a l
 ## Files Types
 - [x] [ENEMYSET.BIN](./DMW2/DATAFILE/ENEMYSET.md)
 
-## Dictionary
+## Dictionary List
 - [x] [Digimon ID](./DMW2/Dictionary/Digimon.md)
 - [x] [Item ID](./DMW2/Dictionary/Item.md)
 - [x] [Tech ID](./DMW2/Dictionary/Tech.md)
