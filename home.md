@@ -4,7 +4,7 @@ This repository was created with the purpose of gathering information related to
 Most of the information relayed in this document is the collective effort of a lot of people active within the Digimon World 2 community and Discord, and cannot be contributed to a single person.
 
 ## Files Types
-- [ ] [ENEMYSET.BIN](./DATAFILE/ENEMYSET.md)
+- [x] [ENEMYSET.BIN](./DMW2/DATAFILE/ENEMYSET.md)
 
 ## Other resources!
 
