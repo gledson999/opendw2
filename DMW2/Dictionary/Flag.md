@@ -90,7 +90,7 @@
 |0x238C|Play as Titan Body Digi-Beetle|
 |0x238D|Install Power radar on Digi-beetle|
 |0x238E|Disable All Menus, except Status|
-|0x238F|Get beginner Items and Digimons from Zudokorn| **_AKAGI/NAOMI/DINOGON/_**
+|0x238F|Get beginner Items and Digimons from Zudokorn **_AKAGI/NAOMI/DINOGON/_**
 |0x2390|Get 2000 BITs|
 |0x2391|Get 1000 BITs|
 |0x2392|Get SnowAgumon|
