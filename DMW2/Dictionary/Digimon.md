@@ -1,4 +1,4 @@
-# Digimon ID - [Back](https://gledson999.github.io/opendw2/home.html)
+# Digimon ID - [Back](../../home.md)
 
 | Id       | Digimon      |
 |------------|---------------|
