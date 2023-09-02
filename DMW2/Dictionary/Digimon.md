@@ -1,4 +1,4 @@
-# [Digimon World 2 Reverse](index.md) - Digimon ID
+# [Digimon World 2](home.md) - Digimon ID
 
 | Id       | Digimon      |
 |------------|---------------|
