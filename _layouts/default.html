@@ -7,6 +7,7 @@
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
     <link rel="stylesheet" href="{{ '/assets/css/dark-mode.css?v=' | append: site.github.build_revision | relative_url }}">
+    <link href=" https://cdn.jsdelivr.net/npm/dark-mode-switch@1.0.0/dark-mode.min.css " rel="stylesheet">
   </head>
   <body>
     <header class="page-header" role="banner">
@@ -15,7 +16,7 @@
             <input type="checkbox" class="custom-control-input" id="darkSwitch">
             <label class="custom-control-label" for="darkSwitch">Dark Mode</label>
       </div>
-      <script src="js/dark-mode-switch.min.js"></script>
+      <script src=" https://cdn.jsdelivr.net/npm/dark-mode-switch@1.0.0/dark-mode-switch.min.js "></script>
     </header>
     <main id="content" class="main-content" role="main">
       {{ content }}
