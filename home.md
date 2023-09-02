@@ -5,6 +5,7 @@ Most of the information relayed in this document is the collective effort of a l
 
 ## Files Types
 - [x] [ENEMYSET.BIN](./DMW2/DATAFILE/ENEMYSET.md)
+- [ ] [DATA2000.BIN](./DMW2/CITY/DATA2000.md)<img src="imagens/new.gif" width="30" height="14"/>
 
 ## Dictionary List
 - [x] [Digimon ID](./DMW2/Dictionary/Digimon.md)
