@@ -567,6 +567,8 @@ a:hover {
 .main-content h1 {
   padding-bottom:0.3em;
   font-size:2em;
+  margin-bottom:4px;
+  margin-top:2rem;
   border-bottom:1px solid #159957;
   color:#159957
 }
@@ -574,11 +576,15 @@ a:hover {
   padding-bottom:0.3em;
   font-size:1.5em;
   border-bottom:1px solid #159957;
+  margin-bottom:4px;
+  margin-top:2rem;
   color:#159957
 }
 .main-content h3 {
   font-size:1.25em;
-  color:#159957
+  color:#159957;
+  margin-bottom:4px;
+  margin-top:2rem;
 }
 .main-content h4 {
   font-size:1em;
