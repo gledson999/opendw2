@@ -36,7 +36,8 @@ This pointer sets the movement for the NPC, this can set NPCs in stand position 
 09 0B FF FF FF FF FF FF FF FF FF FF
 ```
 ![stand](../../Resource/stand.gif)
------
+
+----
 ### Walking Position Example
 ```
 08 0B 0A 0B FF FF FF FF FF FF FF FF
