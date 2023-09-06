@@ -80,6 +80,7 @@
 |4C|Grisly Wing|
 |4D|Shadow Scythe(40MP)|
 |4E|Evil Wind|
+|4F|Tentacle Claw|
 |50|Musical Fist|
 |51|Duo Scissor Claw|
 |52|Pit Pelter|
