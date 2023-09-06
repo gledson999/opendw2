@@ -6,6 +6,7 @@ Most of the information relayed in this document is the collective effort of a l
 ## Files Types
 - [x] [ENEMYSET.BIN](./DMW2/DATAFILE/ENEMYSET.md)
 - [x] [DATA2000.BIN](./DMW2/CITY/DATA2000.md)<img src="imagens/new.gif" width="30" height="14"/>
+- [x] [MESSXXXX.BIN](./DMW2/CITY/MESSXXXX.md)<img src="imagens/new.gif" width="30" height="14"/>
 
 ## Dictionary List
 - [x] [Digimon ID](./DMW2/Dictionary/Digimon.md)
@@ -25,7 +26,7 @@ Most of the information relayed in this document is the collective effort of a l
 * [Digimon World 2 - Tiny Tool](https://www.romhacking.net/utilities/1723)
 * [Digimon World 2 - Skin Applier](https://github.com/Grensuingo/DW2SkinApplier/releases)<img src="imagens/new.gif" width="30" height="14"/>
 * [Digimon World 2 - Tool](https://github.com/RemyRM/DigimonWorld2Tool)<img src="imagens/new.gif" width="30" height="14"/>
-* [Digimon World 2 - Digi-Beetle Selector](https://www.romhacking.net/utilities/1686/)<img src="imagens/new.gif" width="30" height="14"/>
+* [Digimon World 2 - Digi-Beetle Selector](https://www.romhacking.net/utilities/1686/)
 * [Digimon World 2 - Randomizer](https://www.romhacking.net/utilities/1725/)<img src="imagens/new.gif" width="30" height="14"/>
 
 ## Other resources!
