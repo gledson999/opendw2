@@ -14,6 +14,8 @@
 |0x002D|Change MetalSeadramon from inventory [Note 1](#note-1)|
 |0x002E|Change SkullGreymon from inventory [Note 1](#note-1)|
 |0x0032|Dialog Flag: Receive 2000 BITs from Angemon|
+|0x0046|Disable SCSI Domain Light|
+|0x0063|Disable Boot Domain Light|
 |0x0067|Disable Auto Pilot in DUNG|
 |0x0068|Play as Brown Zudokorn Digi-Beetle in DUNG|
 |0x0258|Unlock SCSI Domain 1|
@@ -44,9 +46,12 @@
 |0x0271|Unlock RAM Domain|
 |0x0272|Unlock ROM Domain|
 |0x0274|Unlock Chaos Tower|
+|0x0275|Unlock Boot Domain|
 |0x0276|Unlock DVD Domain|
+|0x0277|Unlock Power Domain|
 |0x0278|Unlock Tera Domain|
 |0x027A|Unlock Device Dome|
+|0x027B|Unlock Meditation Dome|
 |0x027C|Unlock Archive Port Teleport Off (Directory Continent)|
 |0x027D|Unlock Archive Port Teleport On (Directory Continent)|
 |0x0280|Unlock Shuttle Port Teleport Off (Directory Continent)|
