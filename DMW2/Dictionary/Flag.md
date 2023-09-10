@@ -15,7 +15,38 @@
 |0x002E|Change SkullGreymon from inventory [Note 1](#note-1)|
 |0x0032|Dialog Flag: Receive 2000 BITs from Angemon|
 |0x0046|Disable SCSI Domain Light|
+|0x0047|Disable Video Domain Light|
+|0x0048|Disable Disk Domain Light|
+|0x0049|Disable BIOS Domain Light|
+|0x004A|Disable DriveDomain Light|
+|0x004B|Disable Web Domain Light|
+|0x004C|Disable ModemDomain Light|
+|0x004D|Disable SCSI Domain Light|
+|0x004E|Disable Video Domain Light|
+|0x004F|Disable Disk Domain Light|
+|0x0050|Disable BIOS Domain Light|
+|0x0051|Disable DriveDomain Light|
+|0x0052|Disable Web Domain Light|
+|0x0053|Disable ModemDomain Light|
+|0x0054|Disable Code Domain Light|
+|0x0055|Disable Laser Domain Light|
+|0x0056|Disable Giga Domain Light|
+|0x0057|Disable DiodeDomain Light|
+|0x0058|Disable Port Domain Light|
+|0x0059|Disable Scan Domain Light|
+|0x005A|Disable Data Domain Light|
+|0x005B|Disable PatchDomain Light|
+|0x005C|Disable Mega Domain Light|
+|0x005D|Disable Soft Domain Light|
+|0x005E|Disable Bug Domain Light|
+|0x005F|Disable RAM Domain Light|
+|0x0060|Disable ROM Domain Light|
+|0x0061|Disable Core Tower|
+|0x0062|Disable Chaos Tower|
 |0x0063|Disable Boot Domain Light|
+|0x0064|Disable DVD Domain Light|
+|0x0065|Disable PowerDomain Light|
+|0x0066|Disable Tera Domain Light|
 |0x0067|Disable Auto Pilot in DUNG|
 |0x0068|Play as Brown Zudokorn Digi-Beetle in DUNG|
 |0x0258|Unlock SCSI Domain 1|
