@@ -378,6 +378,7 @@
 |0x2398|Get Magnadramon|
 |0x2399|Get MetalGarurumon|
 |0x239A|Get Machinedramon|
+|0x239C|Rank Beginner|
 |0x239D|Rank Amateur|
 |0x239E|Rank Rookie|
 |0x239F|Rank Normal|
