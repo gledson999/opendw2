@@ -4,6 +4,15 @@
 |------------|---------------|
 |0x0010|Related to Yes option in Script|
 |0x0011|Related to No option in Script|
+|0x001A|Event Flag: Active Rank 2 Tourmanent|
+|0x001B|Event Flag: Active Rank 3 Tourmanent|
+|0x001C|Event Flag: Active Rank 4 Tourmanent|
+|0x001D|Event Flag: Active Rank 5 Tourmanent|
+|0x001E|Event Flag: Active Rank 6 Tourmanent|
+|0x001F|Event Flag: Active Rank 7 Tourmanent|
+|0x0020|Event Flag: Active Rank 8 Tourmanent|
+|0x0021|Event Flag: Active Rank 9 Tourmanent|
+|0x0022|Unknown related to Coliseum tourmanent|
 |0x0026|Change Toy Agumon from inventory [Note 1](#note-1)|
 |0x0027|Change Crabmon from inventory [Note 1](#note-1)|
 |0x0028|Change Numemon from inventory [Note 1](#note-1)|
@@ -49,6 +58,7 @@
 |0x0066|Disable Tera Domain Light|
 |0x0067|Disable Auto Pilot in DUNG|
 |0x0068|Play as Brown Zudokorn Digi-Beetle in DUNG|
+|0x0069|Unknown Executetion tourmanent event|
 |0x0258|Unlock SCSI Domain 1|
 |0x0259|Unlock Video Domain 1|
 |0x025A|Unlock Disk Domain 1|
@@ -368,6 +378,15 @@
 |0x2398|Get Magnadramon|
 |0x2399|Get MetalGarurumon|
 |0x239A|Get Machinedramon|
+|0x239D|Rank Amateur|
+|0x239E|Rank Rookie|
+|0x239F|Rank Normal|
+|0x23A0|Rank Pro|
+|0x23A1|Rank Expert|
+|0x23A2|Rank Elite|
+|0x23A3|Rank Commander|
+|0x23A4|Rank Chief|
+|0x23A5|Rank Master|
 |0x23A6|Get Agumon Starter Partner|
 |0x23A7|Get patamon Starter Partner|
 |0x23A8|Get DemiDevimon Starter Partner|
